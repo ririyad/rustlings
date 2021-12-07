@@ -1,6 +1,6 @@
 ## Rust Exercises
 
-This is my own forked version of [rustlings](https://github.com/rust-lang/rustlings), I use it to track my progress.
+This is my own forked version of [rustlings](https://github.com/rust-lang/rustlings) which I use it to track my progress.
 
 ### Solving Steps
 
